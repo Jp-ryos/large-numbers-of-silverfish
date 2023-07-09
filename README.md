@@ -19,7 +19,7 @@ npm i
 gulp 
 ```
 
-マインクラフトを開き、ビヘイビアパックに「large-numbers-of-silverfish」を指定してワールドを作成
+マインクラフトを開き、ビヘイビアパックに「large-numbers-of-silverfish」を指定してワールドを作成する
 
 
 
